@@ -1,0 +1,37 @@
+[
+  {
+    "name": "articlelist",
+    "path": "/articlelist",
+    "component": "/Users/xuzhen/Desktop/学习/dantyli/test/pages/articlelist.vue",
+    "chunkName": "pages/articlelist",
+    "_name": "_47dd7b07"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/xuzhen/Desktop/学习/dantyli/test/pages/home.vue",
+    "chunkName": "pages/home",
+    "_name": "_a29f5f08"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "/Users/xuzhen/Desktop/学习/dantyli/test/pages/posts.vue",
+    "chunkName": "pages/posts",
+    "_name": "_2426ed06"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/xuzhen/Desktop/学习/dantyli/test/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7b970285"
+  },
+  {
+    "name": "id",
+    "path": "/:id",
+    "component": "/Users/xuzhen/Desktop/学习/dantyli/test/pages/_id.vue",
+    "chunkName": "pages/_id",
+    "_name": "_88c43ba6"
+  }
+]
